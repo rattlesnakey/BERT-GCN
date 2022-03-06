@@ -6,7 +6,7 @@
 
 /src/..models
 
-/scripts
+/src/load_fine_tuned_model.py
 
 /wandb
 
